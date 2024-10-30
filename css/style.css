@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700);
+
+h5{
+	padding-bottom: 0px;
+}
+
+.tiny{
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+}
+.ui.search.dropdown{
+	background-color: #ea579a;
+	border-radius: 5px;
+}
+.ui.search.dropdown > input.search{
+	font-size: 100%;
+	background-color:#ea579a;
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
+}
+option{
+	display: inline-block;
+}
+#currency_dd{
+	padding: 10px;
+}
